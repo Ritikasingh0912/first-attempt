@@ -1,0 +1,83 @@
+<!--Name : Ritika Singh
+Class Roll No: 20201225
+Examination Roll No: 
+
+Question 1-->
+
+
+
+<html>
+<head>
+<title>Question 1</title>
+</head>
+<body style="background-color:blue;">
+<h1 style="text-align:center;"><U>PRACTICAL 1</U></h1></font>
+<br>
+<p style="color=white;"><h1>So, The<i> text is shown in italics.</h1></i></p>
+<br>
+<p style="color:purple;" >In this,we will focus on the basics of html. That includes use of tags,elements and their attributes.</p>
+<hr>
+<b><p  style="font-family:courier;" "font-size:200%;"> This text is in bold and different font style.</p>
+<marquee>The text is shown as marquee text.</marquee>
+
+</body>
+</html>
+
+
+
+
+<!doctype html>
+<html>
+<head>
+<Title> Question 2</title>
+<style> 
+body { background-image: url("C:\Users\Lenovo\Pictures.jpg");background-repeat:no-repeat ; background-position: center  ; text-align:left ; background-attachment:fixed ; color : orange ;}
+a:link {color: green   ; /* unvisited link */}
+a:visited {color:blue ; /* visited link */}
+a:hover {color: red; /*link over which mouse is hovering */ }
+a:active {color: orange ; /* link which is selected */ } 
+</style>
+</head>
+
+<body>
+
+
+<hr>
+<a href ="#section2" id="section1" > <h1> Go to bottom </h1> </a>
+
+<h2 style ="text-align: center ;  font-size :85px ; color: white;" > This is External Linking </h2> 
+<h2 style ="text-align: center ;  font-size : 85px ;"> <a href= "https://www.google.com/earth/"> Click to visit Google Earth </a> 
+<hr>
+<h1 style ="text-align: center ;  font-size :75px ; color: light blue;" > EARTH  </h1>
+<p style="text-align: center ; font-size : 60 ; color: blue; " > Earth is the third planet from the Sun and the only astronomical object known to harbor life. About 29% of Earth's surface is land consisting of continents and islands. The remaining 71% is covered with water, mostly by oceans but also lakes, rivers and other fresh water, which together constitute the hydrosphere. Much of Earth's polar regions are covered in ice. Earth's outer layer is divided into several rigid tectonic plates that migrate across the surface over many millions of years. Earth's interior remains active with a solid iron inner core, a liquid outer core that generates Earth's magnetic field, and a convecting mantle that drives plate tectonics.
+
+
+
+</p> 
+<hr>
+<h4 style ="text-align: left ;  font-size : 50px ; color: Red ; " > Unordered List  </h4> 
+ <ul>
+<li style ="text-align: left ;  font-size : 50px ;"> element 1  </li>
+<li style ="text-align: left ;  font-size : 50px ;"> element 2  </li> 
+<li style ="text-align: left ;  font-size : 50px ;"> element 3  </li>  
+<li style ="text-align: left ;  font-size : 50px ;"> element 4  </li>   
+<br>
+<hr>
+<h4 style ="text-align: left ;  font-size : 50px ; color: Red   ; " > Ordered list  </h4>
+<ol>
+<li style ="text-align: left ;  font-size : 50px ;"> element 1 </li>
+<li style ="text-align: left ;  font-size : 50px ;" > element 2 </li>
+<li style ="text-align: left ;  font-size : 50px ;"> element 3</li> 
+<li style ="text-align: left ;  font-size : 50px ;"> element 4 </li>
+<li style ="text-align: left ;  font-size : 50px ;"> element 5 </li> 
+ 
+<h1 style="text-align: left ;  font-size : 50px ; color: Red  ; "> Inserting image </h1> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/1200px-The_Earth_seen_from_Apollo_17.jpg"  width="500" height="500">
+<a href="#section1" id="section2" > <h1> Go to top </h1> </a> 
+
+</body>
+</html>
+
+
+
+
